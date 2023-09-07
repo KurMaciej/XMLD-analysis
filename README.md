@@ -1,4 +1,4 @@
-# XMLD-analysis
+# XMLD-mla
 This software application was specifically designed to simplify the time-consuming process of analyzing XMLD (X-ray Magnetic Linear Dichroism) and XMCD (X-ray Magnetic Circular Dichroism) spectra.
 When employing these techniques, a typical spectrum encompasses a background signal and a series of distinctive peaks, each corresponding to the absorption edges of the elements within the sample.
 Proficient data analysis reveals valuable insights into the magnetic structure of the specimen.
